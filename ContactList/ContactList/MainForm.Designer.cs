@@ -52,6 +52,7 @@
             btnThemlienhe.TabIndex = 1;
             btnThemlienhe.Text = "Thêm liên hệ";
             btnThemlienhe.UseVisualStyleBackColor = true;
+            btnThemlienhe.Click += btnThemlienhe_Click;
             // 
             // MainForm
             // 
